@@ -7,4 +7,12 @@
 
 # Testando a linguagem Markdown
 
-Estou aprendendo a linguagem **Markdown** no __Curso__ em Víceo de Git e GitHub **Negrito** __Negrito__
+Estou aprendendo a linguagem **Markdown** no __Curso__ em Víceo de Git e GitHub 
+
+**Negrito** __Negrito__
+
+*Italico*  _Italico_
+
+~~Sobescrito~~
+
+# Título
