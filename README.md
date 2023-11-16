@@ -6,3 +6,5 @@
  Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 
 # Testando a linguagem Markdown
+
+Estou aprendendo a linguagem **Markdown** no __Curso__ em Víceo de Git e GitHub **Negrito** __Negrito__
