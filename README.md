@@ -29,3 +29,19 @@ Lista Numerada:
    1. sdfjsd
    1. jdsjf
 1. Teste 3
+
+__Lista demarcada:__  Pode ser usado o *  ou o -
+* Teste
+* Teste
+
+   Teste
+  
+   Teste
+  
+Exemplo
+- Teste
+- Teste
+
+   Teste
+
+   Teste  
