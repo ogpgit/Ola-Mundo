@@ -15,4 +15,15 @@ Estou aprendendo a linguagem **Markdown** no __Curso__ em Víceo de Git e GitHub
 
 ~~Sobescrito~~
 
-# Título
+# Título - Aula de Linguagem Markdown
+---
+***
+## Título
+### Título
+#### Título
+Podemos misturar configurações **_Negrito e Italico_** Ou _**Negrito e Italico**_
+
+Lista Numerada:
+1. Teste
+2. Teste 2
+1. Teste 3
