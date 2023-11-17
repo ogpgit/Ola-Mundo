@@ -51,3 +51,6 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [x] Finalizar a reunião com o cliente
 - [] Receber pagamento
+
+
+![Imagem PDF](https://github.com/ogpgit/Ola-Mundo/assets/67315703/5ace82f0-c750-4d51-a13a-3fac9d3e13d5)
