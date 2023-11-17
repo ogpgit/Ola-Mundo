@@ -52,7 +52,7 @@ Lista de Tarefas:
 - [x] Finalizar a reunião com o cliente
 - [] Receber pagamento
 
+![Imagem do mascote](https://github.com/ogpgit/Ola-Mundo/assets/67315703/42412f17-ca0e-4e75-81e0-c91a0382197f)
 
-![Imagem PDF](https://github.com/ogpgit/Ola-Mundo/assets/67315703/5ace82f0-c750-4d51-a13a-3fac9d3e13d5)
 
 [Acesse meu GitHub](https://github.com/ogpgit/)
